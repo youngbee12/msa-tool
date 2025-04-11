@@ -12,7 +12,7 @@ This is a Multiple Sequence Alignment (MSA) tool built with R Shiny and containe
 1. Clone the repository:
 ```bash
 git clone https://github.com/youngbee12/msa-tool.git
-cd docker-msa
+cd msa-tool
 ```
 
 2. Build the Docker image:
